@@ -1,0 +1,14 @@
+# Python virtual environment — never upload this
+.venv/
+
+# DuckDB database file — too large for GitHub
+*.duckdb
+
+# Mac system files
+.DS_Store
+
+# Raw data — too large for GitHub
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
